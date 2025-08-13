@@ -16,6 +16,6 @@
 
 ## Contato
 
-* **GitHub**: [github.com/LucasLarrat](https://github.com/lucaslarrat)
+* **GitHub**: [github.com/lucaslarrat](https://github.com/lucaslarrat)
 * **LinkedIn**: [linkedin.com/in/lucaslarrat](https://linkedin.com/in/lucaslarratt)
-* **Email**: [lucas.larrat@email.com](mailto:eulucaslarrat@email.com)
+* **Email**: [eulucaslarrat@email.com](mailto:eulucaslarrat@email.com)
