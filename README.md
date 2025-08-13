@@ -1,16 +1,21 @@
-## Hi there 👋
+# Lucas Larrat
 
-<!--
-**lucaslarrat/lucaslarrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor front-end focado em React.js e TypeScript. Trabalho com Tailwind CSS para criar interfaces modernas e responsivas.
+Utilizo Vite para projetos rápidos e leves e Next.js quando é necessário cache e SSR.
+Também desenvolvo interfaces para FiveM, com flexibilidade para criar tanto o front-end quanto o back-end, mas meu foco principal é o front-end.
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* React.js
+* TypeScript
+* Tailwind CSS
+* Vite
+* Next.js
+* Git / GitHub
+* APIs REST
+
+## Contato
+
+* **GitHub**: [github.com/LucasLarrat](https://github.com/lucaslarrat)
+* **LinkedIn**: [linkedin.com/in/lucaslarrat](https://linkedin.com/in/lucaslarratt)
+* **Email**: [lucas.larrat@email.com](mailto:eulucaslarrat@email.com)
